@@ -1,0 +1,10 @@
+.row{
+    background-color: #e2e2e2;
+    padding: 20px;
+}
+
+.row h2{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+}

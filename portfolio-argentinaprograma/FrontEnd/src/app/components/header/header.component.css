@@ -1,0 +1,36 @@
+#logoAP{
+    width: 150px;
+}
+
+nav {
+    height: 80px;
+}
+
+.navbar-brand span {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-link {
+    font-weight: bold;
+    margin-right: 20px;
+}
+
+img {
+    width: 30px;
+    margin-right: 5px;
+}
+
+@media only screen and (max-width: 767px) {
+    .navbar-nav {
+        margin-top: 10px;
+    }
+
+    .navbar-brand {
+        margin-bottom: 10px;
+    }
+
+    #logoAP {
+        width: 100px;
+    }
+}

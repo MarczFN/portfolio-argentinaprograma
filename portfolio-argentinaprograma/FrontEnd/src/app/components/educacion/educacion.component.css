@@ -1,0 +1,39 @@
+.educacion {
+    background-color: #e2e2e2;
+    padding: 20px;
+  }
+  
+  .educacion h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .educacion ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .educacion li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .educacion img {
+    width: 80px;
+    margin-right: 20px;
+  }
+  
+  .educacion .info h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .educacion .info p {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  

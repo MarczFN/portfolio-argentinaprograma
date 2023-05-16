@@ -1,0 +1,40 @@
+.experiencia {
+    background-color: #e2e2e2;
+    padding: 20px;
+  }
+  
+  .experiencia h2 {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .experiencia ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .experiencia li {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .experiencia img {
+    width: 80px;
+    margin-right: 20px;
+  }
+  
+  .experiencia .info h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  .experiencia .info p {
+    margin: 0;
+    font-size: 1.2rem;
+  }
+  
+  
